@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](order-summary-ui.netlify.app)
+- Solution URL: (https://github.com/Sanjog735/Order-Summery-UI-Card/)
+- Live Site URL: (order-summary-ui.netlify.app)
 
 ## My process
 
